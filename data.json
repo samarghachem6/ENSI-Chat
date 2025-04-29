@@ -1,0 +1,97 @@
+[
+  {
+    "question": "Idée générale sur l'ENSI",
+    "answer": "l’ENSI est une école qui se distingue par la formation d’un ingénieur informaticien généraliste ayant une base solide pour toute spécialisation de son choix tout au long de sa carrière. L’ENSI offre actuellement six filières de spécialisation de ses ingénieurs (Génie Logiciel, Intelligence Artificielle, Data Science pour le Computer Vision, Ingénierie Informatique pour la Finance, Services et Technologies de l'Internet des Objets, Systèmes et Logiciels Embarqués)  dont les contenus sont annuellement révisés et enrichis pour préparer aux futures évolutions (par exemple Data Science, Machine Learning, BlockChain), voire révolutions (Quantum Computing), scientifiques, technologiques et techniques tout en nourrissant la culture de la sobriété et de l’éthique."
+  },
+  {
+    "question": "Informations sur le Master en sciences de l'informatique?",
+    "answer": "L’ENSI offre deux formations en master de recherche :Master de recherche en Sciences de l’informatique (MeRSI),assuré à 100% à l’ENSI et impliquant nos enseignants ainsi que certains de nos nombreux partenaires académiques et industriels. Ce master offre un M1 commun et 2 choix de parcours pour le M2 : (1) Data Science et (2) Smart Systems.Master de recherche en bio-informatique, conjoint ENSI avec l’Institut de Biotechnologie de Sidi Thabet et en collaboration avec l’Institut Pasteur de Tunis. Ce master offre un M1 équilibré entre les trois champs disciplinaires bio-informatique, informatique et statistique qui permet ensuite une orientation vers les deux parcours de M2 OBD (majoritairement biologie) ou BDA (majoritairement informatique)."
+  },
+  {
+    "question": "Quelles sont les matières du master M1 ?",
+    "answer": "Théorie des langages et programmation, Génie logiciel et réseaux, Recherche opérationnelle, Techniques de communication, Méthodes numériques, Intelligence artificielle, Algorithmique et programmation, Génie logiciel et Systèmes répartis, Formation à la recherche, Sécurité et systèmes embarqués"
+  },
+  {
+    "question": "Quelles sont les matières du master M2 DS ?",
+    "answer": "UF1. Machine and deep learning, UF2. Modélisation, UF3. Data processing and Computer Vision, UF4. Statistiques de formes et calcul invariants"
+  },
+  {
+    "question": "Quelles sont les matières du master M2 IOT ?",
+    "answer": "d'enseignement , (UE) , UF1. Sciences de données , UF2. Architectures et technologies de l’ IoT , UF3. Data & Knowledge Management , UT Unité transversale : Séminaires , systèmes , intelligents , Innovations de , l’IoT"
+  },
+  {
+    "question": "Plan d'études M1",
+    "answer": "Plan M1: https://ensi.rnu.tn/useruploads/files/Master/2024/Plan%20d%27%C3%A9tudes%20M1.pdf"
+  },
+  {
+    "question": "Plan d'études M2 DS?",
+    "answer": "=Plan M2 DS: https://ensi.rnu.tn/useruploads/files/Master/2024/Plan%20d%27%C3%A9tudes%20M2-DS.pdf"
+  },
+  {
+    "question": "Plan d'études M2 IOT?",
+    "answer": "Plan M2 IOT: https://ensi.rnu.tn/useruploads/files/Master/2024/Plan%20d%27%C3%A9tudes%20M2-SS.pdf"
+  },
+  {
+    "question": "What are the subjects for Software Engineering?",
+    "answer": "Software Reengineering: compulsory, Software quality & test: compulsory, Mobile Development: compulsory, Complex systems engineering: optional, Model driven engineering: optional, Big Data: compulsory, Interactive Decision Support Systems: compulsory, Distributed databases: compulsory, Business Intelligence: compulsory, Geographic Information Systems: optional, Data mining: compulsory, Urbanization of information systems: optional, Data Engineering: optional, Text Mining: optional, Advanced BI: compulsory, Applied Deep learning: compulsory, Multi-agent systems: optional, Cloud computing: compulsory, Blockchain: compulsory, IoT: optional"
+  },
+  {
+    "question": "What are the subjects for Artificial Intelligence?",
+    "answer": "Multi-agent systems: Compulsory, Non-Classical Logics: Compulsory, Applied Deep Learning: Compulsory, Natural Language Processing: Compulsory, Robotics and soft computing: Compulsory, Big Data: Compulsory, Interactive Decision Support Systems: optional, Data mining: Compulsory, Combinatorial Optimization: optional, Category theory and functional programming: Compulsory, Knowledge Representation & Reasoning: Compulsory, Text Mining: Compulsory, Recommender systems: optional, Business Intelligence: optional, Deep Reinforcement Learning: optional, Distributed databases: optional, Advanced BI: optional, Semantic web & Linked Data: optional, Affective computing: optional, Intelligent Transport Systems: optional, Introduction to Cloud computing: Compulsory, Blockchain: Compulsory, AIOT: optional"
+  },
+  {
+    "question": "What are the subjects for Data Science for Computer Vision?",
+    "answer": "Machine and Deep Learning: Compulsory, Restoration and digital Considerations: Compulsory, Shape recognition and geometric invariants: Compulsory, 3D representation: Curves, Shapes and Sur- faces:, Discrete Representation of 3D Objects: Optional, Compression techniques for computer vision applications:, Mathematical Morphology and medical appli- cations:, Multispectral image processing: Compulsory, Multidimensional signal processing: Optional, Computer vision: Optional, Big Data: Compulsory, Machine and Deep Learning Workshops: Compulsory, Speech recognition & Chatbots application: Compulsory, Optimization and Reinforcement Learning: Compulsory, Introduction to Natural Language Processing: Optional, Medical Imaging Workshops: Compulsory, Blockchain: Optional, IoT: Optional, Introduction to cloud computing: Optional, Mobile Development: Optional"
+  },
+  {
+    "question": "What are the subjects for Financial Enginnering?",
+    "answer": "International Finance: compulsory, Numerical Optimization: compulsory, The Risk Modelling and Dynamic Financial Risk Management:, Bank Management: compulsory, Big Data: compulsory, Monte carlo methods and financial model simulation:, Data analysis: compulsory, Statistical Inference: optional, Business intelligence: optional, Multi agent systems: optional, Valuation and financing of companies: compulsory, Introduction to Deep Learning: compulsory, Quantitative Finance: compulsory, Blockchain: compulsory, Mobile Development: optional, Distributed data Bases: optional, IoT: optional, Module complémentaire 1:, Module complémentaire 2:, Module complémentaire 3:, Module complémentaire 4:, Module complémentaire 5:, Module complémentaire 6:"
+  },
+  {
+    "question": "What are the subjects for Services, Technologies and Internet of things ?",
+    "answer": "Microcontrollers based Systems: Optional, Connected Objects Programming: Optional, Cyber-Physical Systems: Optional, Muti-service Cellular Networks: compulsory, communication Architectures and protocols for IoT: compulsory, Networks Management: compulsory, QoS & Trafic eng.: compulsory, Real time operating systems: compulsory, Distributed systems and applications: compulsory, Distributed Storage systems: compulsory, Advanced architectures and parallel programming: compulsory, introduction to Cloud computing: compulsory, Positioning Systems: techniques and Applications: Optional, IoT Middelware & frameworks: Optional, Blockchain: Optional, Introduction to Deep Learning: compulsory, Introduction to Datamining: Optional, Big Data: Optional, Introduction to Robotics & soft computing: Optional, IoT Security: compulsory, IoT security project: Optional"
+  },
+  {
+    "question": "What are the subjects for Embedded Software and Systems?",
+    "answer": "Robotics and soft computing: Optional, Introduction to Deep Learning: Optional, Advanced Architectures and parallel program- ming models:, Real Time Operating Systems: Compulsory, Distributed Systems and applications: Compulsory, Embedded Linux: Optional, Introduction to cloud computing: Compulsory, Software Development for robotics: Optional, Introduction to Digital EcoSystems: from IoT to Cloud computing:, Microcontroller-based systems: Compulsory, System Integration (VHDL): Compulsory, Real-Time systems design and validation: Compulsory, Cyber-Physical Systems: Optional, Electronics for embedded systems: Compulsory, Embedded Interfacing: Optional, Integration project: Compulsory, Microcontroller Project: Compulsory, Reconfigurable Architectures: Optional, Soft Actuator Control and Applications: Optional, Programming connected objects: Optional, Positioning Systems and Applications: Optional, Diagnosis, safety and reliability of embedded sys- tems:, IoT Security: Compulsory, Automotive Architecture and Security: Optional, IoT security project: Compulsory, Introduction to Datamining: Optional"
+  },
+  {
+    "question": "In which French universities does ENSI offer double degrees ?",
+    "answer": "Institut Mines Télécom - Telecom sudParis , Ecole Centrale de Lyon , ENSIIE-EVRY-COURCOURONNES , ENSEIRB-MATMECA Bordeaux"
+  },
+  {
+    "question": "In which German universities does ENSI offer double degrees?",
+    "answer": "- Université de Passau Allemagne , -Université de Kassel"
+  },
+  {
+    "question": "In which Canadian universities does ENSI offer double degrees?",
+    "answer": "- Université Laval"
+  },
+  {
+    "question": "what double degrees does ENSI offer?",
+    "answer": "ENSI offers double degree opportunities in multiple countries, France, Germany and Canada"
+  },
+  {
+    "question": "Quels sont les clubs disponibles à l'ENSI?",
+    "answer": [
+      "Co’Art: Collaborative Art Club",
+      "ENSI Music Club",
+      "ENSI Chess Club",
+      "Club de lecture",
+      "Club d’animation ENSI",
+      "Club de théâtre",
+      "CPS ENSI : Citoyens Positifs et Sociables",
+      "NATEG ENSI Student Branch",
+      "Netlinks: Netlinks’ ENSI branch (ancien)",
+      "TunSa: Tunisian Space Association (nouveau)",
+      "EJE : association ENSI Junior Enterprise",
+      "ARE : association Robotique de l’ENSI",
+      "CSI: Cyber Security Community",
+      "ECPC: ENSI Competitive Programming Club",
+      "EMC: ENSI Microsoft Club",
+      "GDG ENSI: Google Developer Group at ENSI",
+      "IEEE: IEEE ENSI Student Branch",
+      "OSSEC: Open Source Software ENSI Club"
+    ]
+  }
+]

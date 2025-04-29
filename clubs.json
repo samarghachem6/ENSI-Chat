@@ -1,0 +1,25 @@
+[
+  {
+    "question": "Quels sont les clubs disponibles à l'ENSI?",
+    "answer": [
+      "Co’Art: Collaborative Art Club",
+      "ENSI Music Club",
+      "ENSI Chess Club",
+      "Club de lecture",
+      "Club d’animation ENSI",
+      "Club de théâtre",
+      "CPS ENSI : Citoyens Positifs et Sociables",
+      "NATEG ENSI Student Branch",
+      "Netlinks: Netlinks’ ENSI branch (ancien)",
+      "TunSa: Tunisian Space Association (nouveau)",
+      "EJE : association ENSI Junior Enterprise",
+      "ARE : association Robotique de l’ENSI",
+      "CSI: Cyber Security Community",
+      "ECPC: ENSI Competitive Programming Club",
+      "EMC: ENSI Microsoft Club",
+      "GDG ENSI: Google Developer Group at ENSI",
+      "IEEE: IEEE ENSI Student Branch",
+      "OSSEC: Open Source Software ENSI Club"
+    ]
+  }
+]

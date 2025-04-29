@@ -1,0 +1,30 @@
+[
+  {
+    "question": "Informations sur le Master en sciences de l'informatique?",
+    "answer": "L’ENSI offre deux formations en master de recherche :Master de recherche en Sciences de l’informatique (MeRSI),assuré à 100% à l’ENSI et impliquant nos enseignants ainsi que certains de nos nombreux partenaires académiques et industriels. Ce master offre un M1 commun et 2 choix de parcours pour le M2 : (1) Data Science et (2) Smart Systems.Master de recherche en bio-informatique, conjoint ENSI avec l’Institut de Biotechnologie de Sidi Thabet et en collaboration avec l’Institut Pasteur de Tunis. Ce master offre un M1 équilibré entre les trois champs disciplinaires bio-informatique, informatique et statistique qui permet ensuite une orientation vers les deux parcours de M2 OBD (majoritairement biologie) ou BDA (majoritairement informatique)."
+  },
+  {
+    "question": "Quelles sont les matières du master M1 ?",
+    "answer": "Théorie des langages et programmation, Génie logiciel et réseaux, Recherche opérationnelle, Techniques de communication, Méthodes numériques, Intelligence artificielle, Algorithmique et programmation, Génie logiciel et Systèmes répartis, Formation à la recherche, Sécurité et systèmes embarqués"
+  },
+  {
+    "question": "Quelles sont les matières du master M2 DS ?",
+    "answer": "UF1. Machine and deep learning, UF2. Modélisation, UF3. Data processing and Computer Vision, UF4. Statistiques de formes et calcul invariants"
+  },
+  {
+    "question": "Quelles sont les matières du master M2 IOT ?",
+    "answer": "d'enseignement , (UE) , UF1. Sciences de données , UF2. Architectures et technologies de l’ IoT , UF3. Data & Knowledge Management , UT Unité transversale : Séminaires , systèmes , intelligents , Innovations de , l’IoT"
+  },
+  {
+    "question": "Plan d'études M1",
+    "answer": "Plan M1: https://ensi.rnu.tn/useruploads/files/Master/2024/Plan%20d%27%C3%A9tudes%20M1.pdf"
+  },
+  {
+    "question": "Plan d'études M2 DS?",
+    "answer": "=Plan M2 DS: https://ensi.rnu.tn/useruploads/files/Master/2024/Plan%20d%27%C3%A9tudes%20M2-DS.pdf"
+  },
+  {
+    "question": "Plan d'études M2 IOT?",
+    "answer": "Plan M2 IOT: https://ensi.rnu.tn/useruploads/files/Master/2024/Plan%20d%27%C3%A9tudes%20M2-SS.pdf"
+  }
+]
