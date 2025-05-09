@@ -32,44 +32,44 @@
     "answer": "Plan M2 IOT: https://ensi.rnu.tn/useruploads/files/Master/2024/Plan%20d%27%C3%A9tudes%20M2-SS.pdf"
   },
   {
-    "question": "What are the subjects for Software Engineering?",
+    "question": "Quelles sont les matières de la filière Génie Logiciel?",
     "answer": "Software Reengineering: compulsory, Software quality & test: compulsory, Mobile Development: compulsory, Complex systems engineering: optional, Model driven engineering: optional, Big Data: compulsory, Interactive Decision Support Systems: compulsory, Distributed databases: compulsory, Business Intelligence: compulsory, Geographic Information Systems: optional, Data mining: compulsory, Urbanization of information systems: optional, Data Engineering: optional, Text Mining: optional, Advanced BI: compulsory, Applied Deep learning: compulsory, Multi-agent systems: optional, Cloud computing: compulsory, Blockchain: compulsory, IoT: optional"
   },
   {
-    "question": "What are the subjects for Artificial Intelligence?",
+    "question": "Quelles sont les matières de la filière Intelligence Artificielle?",
     "answer": "Multi-agent systems: Compulsory, Non-Classical Logics: Compulsory, Applied Deep Learning: Compulsory, Natural Language Processing: Compulsory, Robotics and soft computing: Compulsory, Big Data: Compulsory, Interactive Decision Support Systems: optional, Data mining: Compulsory, Combinatorial Optimization: optional, Category theory and functional programming: Compulsory, Knowledge Representation & Reasoning: Compulsory, Text Mining: Compulsory, Recommender systems: optional, Business Intelligence: optional, Deep Reinforcement Learning: optional, Distributed databases: optional, Advanced BI: optional, Semantic web & Linked Data: optional, Affective computing: optional, Intelligent Transport Systems: optional, Introduction to Cloud computing: Compulsory, Blockchain: Compulsory, AIOT: optional"
   },
   {
-    "question": "What are the subjects for Data Science for Computer Vision?",
+    "question": "Quelles sont les matières de la filière Data Science for Computer Vision?",
     "answer": "Machine and Deep Learning: Compulsory, Restoration and digital Considerations: Compulsory, Shape recognition and geometric invariants: Compulsory, 3D representation: Curves, Shapes and Sur- faces:, Discrete Representation of 3D Objects: Optional, Compression techniques for computer vision applications:, Mathematical Morphology and medical appli- cations:, Multispectral image processing: Compulsory, Multidimensional signal processing: Optional, Computer vision: Optional, Big Data: Compulsory, Machine and Deep Learning Workshops: Compulsory, Speech recognition & Chatbots application: Compulsory, Optimization and Reinforcement Learning: Compulsory, Introduction to Natural Language Processing: Optional, Medical Imaging Workshops: Compulsory, Blockchain: Optional, IoT: Optional, Introduction to cloud computing: Optional, Mobile Development: Optional"
   },
   {
-    "question": "What are the subjects for Financial Enginnering?",
+    "question": "Quelles sont les matières de la filière Ingénierie pour la finance?",
     "answer": "International Finance: compulsory, Numerical Optimization: compulsory, The Risk Modelling and Dynamic Financial Risk Management:, Bank Management: compulsory, Big Data: compulsory, Monte carlo methods and financial model simulation:, Data analysis: compulsory, Statistical Inference: optional, Business intelligence: optional, Multi agent systems: optional, Valuation and financing of companies: compulsory, Introduction to Deep Learning: compulsory, Quantitative Finance: compulsory, Blockchain: compulsory, Mobile Development: optional, Distributed data Bases: optional, IoT: optional, Module complémentaire 1:, Module complémentaire 2:, Module complémentaire 3:, Module complémentaire 4:, Module complémentaire 5:, Module complémentaire 6:"
   },
   {
-    "question": "What are the subjects for Services, Technologies and Internet of things ?",
+    "question": "Quelles sont les matières de la filière IOT ?",
     "answer": "Microcontrollers based Systems: Optional, Connected Objects Programming: Optional, Cyber-Physical Systems: Optional, Muti-service Cellular Networks: compulsory, communication Architectures and protocols for IoT: compulsory, Networks Management: compulsory, QoS & Trafic eng.: compulsory, Real time operating systems: compulsory, Distributed systems and applications: compulsory, Distributed Storage systems: compulsory, Advanced architectures and parallel programming: compulsory, introduction to Cloud computing: compulsory, Positioning Systems: techniques and Applications: Optional, IoT Middelware & frameworks: Optional, Blockchain: Optional, Introduction to Deep Learning: compulsory, Introduction to Datamining: Optional, Big Data: Optional, Introduction to Robotics & soft computing: Optional, IoT Security: compulsory, IoT security project: Optional"
   },
   {
-    "question": "What are the subjects for Embedded Software and Systems?",
+    "question": "Quelles sont les matières de la filière Systèmes et logiciels embarqués?",
     "answer": "Robotics and soft computing: Optional, Introduction to Deep Learning: Optional, Advanced Architectures and parallel program- ming models:, Real Time Operating Systems: Compulsory, Distributed Systems and applications: Compulsory, Embedded Linux: Optional, Introduction to cloud computing: Compulsory, Software Development for robotics: Optional, Introduction to Digital EcoSystems: from IoT to Cloud computing:, Microcontroller-based systems: Compulsory, System Integration (VHDL): Compulsory, Real-Time systems design and validation: Compulsory, Cyber-Physical Systems: Optional, Electronics for embedded systems: Compulsory, Embedded Interfacing: Optional, Integration project: Compulsory, Microcontroller Project: Compulsory, Reconfigurable Architectures: Optional, Soft Actuator Control and Applications: Optional, Programming connected objects: Optional, Positioning Systems and Applications: Optional, Diagnosis, safety and reliability of embedded sys- tems:, IoT Security: Compulsory, Automotive Architecture and Security: Optional, IoT security project: Compulsory, Introduction to Datamining: Optional"
   },
   {
-    "question": "In which French universities does ENSI offer double degrees ?",
+    "question": "Dans quelles universités françaises l'ENSI propose-t-elle des doubles diplômes ?",
     "answer": "Institut Mines Télécom - Telecom sudParis , Ecole Centrale de Lyon , ENSIIE-EVRY-COURCOURONNES , ENSEIRB-MATMECA Bordeaux"
   },
   {
-    "question": "In which German universities does ENSI offer double degrees?",
+    "question": "Dans quelles universités allemandes l'ENSI propose-t-elle des doubles diplômes ?",
     "answer": "- Université de Passau Allemagne , -Université de Kassel"
   },
   {
-    "question": "In which Canadian universities does ENSI offer double degrees?",
+    "question": "Dans quelles universités canadiennes l'ENSI propose-t-elle des doubles diplômes ?",
     "answer": "- Université Laval"
   },
   {
-    "question": "what double degrees does ENSI offer?",
-    "answer": "ENSI offers double degree opportunities in multiple countries, France, Germany and Canada"
+    "question": "Quels sont les doubles diplômes proposés par l'ENSI ?",
+    "answer": "L'ENSI offre des possibilités de double diplôme dans plusieurs pays, en France, en Allemagne et au Canada."
   },
   {
     "question": "Quels sont les clubs disponibles à l'ENSI?",
@@ -93,5 +93,17 @@
       "IEEE: IEEE ENSI Student Branch",
       "OSSEC: Open Source Software ENSI Club"
     ]
+  },
+  {
+    "question": "ou se trouve l'ENSI ?",
+    "answer": "ENSI se trouve au Campus Universitaire de la Manouba."
+  },
+  {
+    "question": "quelles sont les filières disponibles à l'ensi?",
+    "answer": "Génie Logiciel, Intelligence Artificielle, Data Science for Computer Vision, Ingénierie pour la finance, IOT , Systèmes et logiciels embarqués."
+  },
+  {
+    "question": "quels masters sont disponibles à l'ensi ?",
+    "answer": "Iot et Data Science"
   }
 ]

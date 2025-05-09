@@ -11,17 +11,17 @@ divs=soup.find('div',class_ ='content').find_all('div')
 
 dd=[]
 items =[li.get_text(strip=True) for li in info]
-dd.append({"question": "In which French universities does ENSI offer double degrees ?",
+dd.append({"question": "Dans quelles universités françaises l'ENSI propose-t-elle des doubles diplômes ?",
            "answer": " , ".join(li.get_text(strip=True) for li in info)})
 
-dd.append({"question" : "In which German universities does ENSI offer double degrees?",
+dd.append({"question" : "Dans quelles universités allemandes l'ENSI propose-t-elle des doubles diplômes ?",
            "answer": divs[3].get_text(strip=True) +" , " +  divs[4].get_text(strip=True)})
 
-dd.append({"question" : "In which Canadian universities does ENSI offer double degrees?",
+dd.append({"question" : "Dans quelles universités canadiennes l'ENSI propose-t-elle des doubles diplômes ?",
            "answer": divs[6].get_text(strip=True)})
 dd.append( {
-    "question": "what double degrees does ENSI offer?",
-    "answer": "ENSI offers double degree opportunities in multiple countries, France, Germany and Canada"
+    "question": "Quels sont les doubles diplômes proposés par l'ENSI ?",
+    "answer": "L'ENSI offre des possibilités de double diplôme dans plusieurs pays, en France, en Allemagne et au Canada."
   })
 
 with open("dd.json", "w", encoding="utf-8") as f:

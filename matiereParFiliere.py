@@ -25,7 +25,7 @@ def subjects_extraction(pdf_path, page_num, col=1):
 
 
 filiere = []
-titles = ["Software Engineering", "Artificial Intelligence", "Data Science for Computer Vision", "Financial Enginnering", "Services, Technologies and Internet of things ", "Embedded Software and Systems"]
+titles = ["Génie Logiciel", "Intelligence Artificielle", "Data Science for Computer Vision", "Ingénierie pour la finance", "IOT ", "Systèmes et logiciels embarqués"]
 
 for title,link in zip(titles, pdf_infos):
     pdf_url = "https://ensi.rnu.tn" + link["href"]
@@ -35,7 +35,7 @@ for title,link in zip(titles, pdf_infos):
     subjects = ", ".join(subjects_extraction("matieres.pdf",0))
 
     filiere.append({
-        "question": f"What are the subjects for {title}?",
+        "question": f"Quelles sont les matières de la filière {title}?",
         "answer": subjects
     })
 
